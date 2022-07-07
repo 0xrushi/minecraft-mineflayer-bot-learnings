@@ -32,3 +32,7 @@ And you'll get a *live* view looking like this:
 - Provides minecraft block names depending on the minecraft version https://github.com/PrismarineJS/minecraft-data   
 - A simple utility plugin for Mineflayer that add a higher level API for collecting blocks. https://github.com/PrismarineJS/mineflayer-collectblock
 - A tool/weapon selection Mineflayer plugin for automatically selecting the best tool to use for a specific task. https://github.com/PrismarineJS/mineflayer-tool
+
+
+# Minecraft bots with just OpenCV
+- https://github.com/jmda8400/minecraft-opencv-bot
