@@ -36,3 +36,8 @@ And you'll get a *live* view looking like this:
 
 # Minecraft bots with just OpenCV
 - https://github.com/jmda8400/minecraft-opencv-bot
+
+# Minecraft RL openai gym like libraries
+
+- https://minerl.readthedocs.io/en/latest/
+- https://github.com/tambetm/gym-minecraft
